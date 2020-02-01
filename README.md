@@ -1,5 +1,5 @@
 # TestTaskForDINS
-implementation of the "immutable set" data structure
+Implementation of the "immutable set" data structure
 Задание:
 
 Реализовать неизменяемую структуру данных `Set` с двумя методами:
